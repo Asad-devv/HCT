@@ -1,0 +1,53 @@
+[[ISSUERS]]
+address = "rNctiwizGzY7Tnb3fZJxdfu9hMuCUotZdn"
+name = "Hoodie Chicken"
+
+[[TOKENS]]
+issuer = "rNctiwizGzY7Tnb3fZJxdfu9hMuCUotZdn"
+currency = "HCT"
+name = "Hoodie Chicken Token"
+desc = "Hoodie Chicken uses reverse psychology to fight weapon violence and online bullying, while offering utilities like staking, NFTs, an online gold bullion shop, and AI tools for crime prevention."
+icon = "https://hoodiechicken.com/wp-content/uploads/2024/06/Hoodie-Chicken-Logo.png"  # Replace if the logo URL changes
+
+[[TOKENS.WEBLINKS]]
+url = "https://hoodiechicken.com/"
+type = "website"
+title = "Hoodie Chicken Official Website"
+
+[[TOKENS.WEBLINKS]]
+url = "https://shop.hoodiechicken.com/"
+type = "website"
+title = "Online Gold Bullion Shop"
+
+[[TOKENS.WEBLINKS]]
+url = "https://nft.hoodiechicken.com/"
+type = "website"
+title = "Hoodie Chicken NFTs"
+
+[[TOKENS.WEBLINKS]]
+url = "https://token.hoodiechicken.com/"
+type = "website"
+title = "Token Info Dashboard"
+
+[[TOKENS.WEBLINKS]]
+url = "https://hoodiechicken.com/wp-content/uploads/2024/06/Hoodie-Chicken-White-Paper_BASE.pdf"
+type = "document"
+title = "Hoodie Chicken White Paper"
+
+[[TOKENS.WEBLINKS]]
+url = "https://token.hoodiechicken.com/#/stake"
+type = "website"
+title = "HCT Staking Platform"
+
+[[TOKENS.WEBLINKS]]
+url = "https://token.hoodiechicken.com/#/swap"
+type = "website"
+title = "HCT Swap Platform"
+
+[[TOKENS.WEBLINKS]]
+url = "https://twitter.com/HoodieChickenx”  # Replace with actual Twitter link
+type = "socialmedia"
+title = "Twitter" 																					[[TOKENS.WEBLINKS]]
+url = "https://discord.com/invite/gsfZcKACpc”  # Optional: Add Discord link if available
+type = "socialmedia"
+title = "Discord"
