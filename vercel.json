@@ -1,0 +1,10 @@
+{
+    "cleanUrls": true,
+    "rewrites": [
+      {
+        "source": "/.well-known/xrpl-ledger.toml",
+        "destination": "/.well-known/xrpl-ledger.toml"
+      }
+    ]
+  }
+  
