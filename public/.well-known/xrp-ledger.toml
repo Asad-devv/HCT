@@ -45,9 +45,11 @@ type = "website"
 title = "HCT Swap Platform"
 
 [[TOKENS.WEBLINKS]]
-url = "https://twitter.com/HoodieChickenx”  # Replace with actual Twitter link
+url = "https://twitter.com/HoodieChickenx"
 type = "socialmedia"
-title = "Twitter" 																					[[TOKENS.WEBLINKS]]
-url = "https://discord.com/invite/gsfZcKACpc”  # Optional: Add Discord link if available
+title = "Twitter"
+
+[[TOKENS.WEBLINKS]]
+url = "https://discord.com/invite/gsfZcKACpc"
 type = "socialmedia"
 title = "Discord"
