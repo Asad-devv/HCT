@@ -1,0 +1,78 @@
+{
+  "currency": "HCT",
+  "issuer": "rNctiwizGzY7Tnb3fZJxdfu9hMuCUotZdn",
+  "meta": {
+    "token": {
+      "description": "Hoodie Chicken uses reverse psychology to fight weapon violence and online bullying, while offering utilities like staking, NFTs, an online gold bullion shop, and AI tools for crime prevention.",
+      "name": "Hoodie Chicken Token",
+      "trust_level": 1,
+icon = "https://hoodiechicken.com/wp-content/uploads/2024/06/Hoodie-Chicken-Logo.png"  ,
+
+      "weblinks": [
+        {
+          "url": "https://hoodiechicken.com/",
+          "title": "Hoodie Chicken Official Website"
+        },
+        {
+          "url": "https://shop.hoodiechicken.com/",
+          "title": "Online Gold Bullion Shop"
+        },
+        {
+          "url": "https://nft.hoodiechicken.com/",
+          "title": "Hoodie Chicken NFTs"
+        },
+        {
+          "url": "https://token.hoodiechicken.com/",
+          "title": "Token Info Dashboard"
+        },
+        {
+          "url": "https://hoodiechicken.com/wp-content/uploads/2024/06/Hoodie-Chicken-White-Paper_BASE.pdf",
+          "title": "Hoodie Chicken White Paper"
+        },
+        {
+          "url": "https://token.hoodiechicken.com/#/stake",
+          "title": "HCT Staking Platform"
+        },
+        {
+          "url": "https://token.hoodiechicken.com/#/swap",
+          "title": "HCT Swap Platform"
+        },
+        {
+          "url": "https://twitter.com/HoodieChickenx",
+          "type": "socialmedia",
+          "title": "Twitter"
+        },
+        {
+          "url": "https://discord.com/invite/gsfZcKACpc",
+          "type": "socialmedia",
+          "title": "Discord"
+        }
+      ]
+    },
+    "issuer": {
+      "domain": "hoodiechicken.com",
+      "kyc": true,
+      "name": "Hoodie Chicken",
+      "trust_level": 1,
+      "weblinks": [
+        {
+          "url": "https://twitter.com/HoodieChickenX",
+          "type": "socialmedia"
+        }
+      ]
+    }
+  },
+  "metrics": {
+    "trustlines": 5,
+    "holders": 3,
+    "supply": "6501000052",
+    "marketcap": "3931317.25644576",
+    "price": "0.000604725000000009",
+    "volume_24h": "0",
+    "volume_7d": "0",
+    "exchanges_24h": "0",
+    "exchanges_7d": "0",
+    "takers_24h": "0",
+    "takers_7d": "0"
+  }
+}
