@@ -10,7 +10,7 @@ issuer = "rNctiwizGzY7Tnb3fZJxdfu9hMuCUotZdn"
 currency = "HCT"
 name = "Hoodie Chicken Token"
 desc = "Hoodie Chicken uses reverse psychology to fight weapon violence and online bullying, while offering utilities like staking, NFTs, an online gold bullion shop, and AI tools for crime prevention."
-icon ="https://hoodiechicken.com/wp-content/uploads/2025/01/hoodie-logo-red.png"  # Replace if the logo URL changes
+icon ="https://hoodiechicken.com/wp-content/uploads/2025/01/hoodie-logo-red.png"  
 
 [[TOKENS.WEBLINKS]]
 url = "https://hoodiechicken.com/"
